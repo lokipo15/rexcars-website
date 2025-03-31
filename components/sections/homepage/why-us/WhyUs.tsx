@@ -16,8 +16,8 @@ export default function WhyUs() {
                     icon={CardIcon.EIGHTEEN}
                 />
                 <Card
-                    heading='Brak kaucji'
-                    description='Oferujemy wynajem aut bez kaucji. Jeśli zdecydujesz się wpłacić zwrotną kaucje - otrzymasz rabat w wysokości 10%!'
+                    heading='Możliwość wynajmu bez kaucji'
+                    description='Dla stałych klientów oferujemy możliwość wynajmu auta bez kaucji.'
                     icon={CardIcon.WALLET}
                 />
                 <Card
