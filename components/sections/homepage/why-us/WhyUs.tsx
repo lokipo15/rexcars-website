@@ -12,7 +12,7 @@ export default function WhyUs() {
             <CardWrapper>
                 <Card
                     heading='Brak wieku minimalnego'
-                    description='Aby skorzystać z naszej oferty wystarczy że posiadasz prawo jazdy przez min. 1 miesiąc! Przy odbiorze auta jedynie czego wymagamy to wcześniej wspomniane prawo jazdy oraz dowód osobisty - tak, to takie proste!'
+                    description='Aby skorzystać z naszej oferty wystarczy że posiadasz prawo jazdy przez min. 8 miesięcy! Przy odbiorze auta jedynie czego wymagamy to wcześniej wspomniane prawo jazdy oraz dowód osobisty - tak, to takie proste!'
                     icon={CardIcon.EIGHTEEN}
                 />
                 <Card
